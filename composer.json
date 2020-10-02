@@ -1,6 +1,6 @@
 {
     "name": "snappsrepo/spark-package",
-    "description": "Snapps repo laravel spark copy",
+    "description": "Laravel Spark provides scaffolding for Laravel SaaS applications.",
     "keywords": ["laravel", "stripe", "billing", "scaffolding", "saas"],
     "license": "MIT",
     "authors": [
